@@ -1,5 +1,8 @@
 _repo: The-case-against-evolution_68574
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68574-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Toole, George Barry
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54843
     wikipedia: https://en.wikipedia.org/wiki/Barry_O%27Toole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68574#The-case-against-evolution
 gutenberg_issued: '2022-07-21'
 identifiers:
   gutenberg: '68574'
